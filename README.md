@@ -5,3 +5,5 @@ ATAF1
 PEI1
 AGL67
 RAP2-13
+
+la proteina PEI1 "Zinc finger" solo comparte dominios proeicos con: AT1G48195 y AT1G04990
